@@ -6,3 +6,8 @@ This repository contains a Power BI project that demonstrates the concept of dat
 
 
 The project shows data virtualization of the whole summary, the order monetoring, product monetoring and also customer monetoring.
+
+Data Sources
+This project demonstrates data virtualization with the following data sources:
+
+a GIVEN Excel file.
